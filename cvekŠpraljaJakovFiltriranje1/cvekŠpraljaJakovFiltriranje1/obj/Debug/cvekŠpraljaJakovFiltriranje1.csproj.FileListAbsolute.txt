@@ -1,0 +1,7 @@
+C:\Users\Učenik02\source\repos\cvekŠpraljaJakovFiltriranje1\cvekŠpraljaJakovFiltriranje1\bin\Debug\cvekŠpraljaJakovFiltriranje1.exe.config
+C:\Users\Učenik02\source\repos\cvekŠpraljaJakovFiltriranje1\cvekŠpraljaJakovFiltriranje1\bin\Debug\cvekŠpraljaJakovFiltriranje1.exe
+C:\Users\Učenik02\source\repos\cvekŠpraljaJakovFiltriranje1\cvekŠpraljaJakovFiltriranje1\bin\Debug\cvekŠpraljaJakovFiltriranje1.pdb
+C:\Users\Učenik02\source\repos\cvekŠpraljaJakovFiltriranje1\cvekŠpraljaJakovFiltriranje1\obj\Debug\cvekŠpraljaJakovFiltriranje1.csprojAssemblyReference.cache
+C:\Users\Učenik02\source\repos\cvekŠpraljaJakovFiltriranje1\cvekŠpraljaJakovFiltriranje1\obj\Debug\cvekŠpraljaJakovFiltriranje1.csproj.CoreCompileInputs.cache
+C:\Users\Učenik02\source\repos\cvekŠpraljaJakovFiltriranje1\cvekŠpraljaJakovFiltriranje1\obj\Debug\cvekŠpraljaJakovFiltriranje1.exe
+C:\Users\Učenik02\source\repos\cvekŠpraljaJakovFiltriranje1\cvekŠpraljaJakovFiltriranje1\obj\Debug\cvekŠpraljaJakovFiltriranje1.pdb
